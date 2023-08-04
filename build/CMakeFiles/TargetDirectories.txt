@@ -1,0 +1,6 @@
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/test.dir
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/RamerDouglasPeucker.dir
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/PolygonOptimization.dir
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/PolygonShape.dir
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/ALL_BUILD.dir
+D:/Users/wangyq-v/VSCode/polygon_identify/build/CMakeFiles/ZERO_CHECK.dir
